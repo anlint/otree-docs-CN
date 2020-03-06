@@ -36,7 +36,7 @@
   - [5.2 vars_for_template()](docs/5.2-vars_for_template().md)
   - [5.3 before_next_page()](docs/5.3-before_next_page().md)
   - [5.4 timeout_seconds](docs/5.4-timeout_seconds.md)
-  - [5.5 等待页面(Wait Pages)](docs/5.5-等待页面(Wait Pages).md)
+  - [5.5 等待页面(Wait Pages)](https://github.com/anlint/otree-docs-CN/blob/master/docs/5.5-等待页面(Wait%20Pages).md)
   - [5.6 随机页面顺序](docs/5.6-随机页面顺序.md)
   - [5.7 app_after_this_page](docs/5.7-app_after_this_page.md)
 - [6.模板](#)
